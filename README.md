@@ -10,6 +10,7 @@
 ### Currently working on:
 - <a href="https://github.com/AlmondFlame1287/JavaChat">JavaChat</a>
 - <a href="https://github.com/AlmondFlame1287/SwingEditor">SwingEditor</a>
+- <a href="https://github.com/AlmondFlame1287/JMP">JavaMusicPlayer</a>
 - Other secret stuff..
 
 ### GitHub Analytics
