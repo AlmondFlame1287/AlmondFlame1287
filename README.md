@@ -9,7 +9,7 @@
 
 ### Currently working on:
 - <a href="https://github.com/AlmondFlame1287/PeerChat">PeerChat</a>
-- <a href="https://github.com/AlmondFlame1287/JMP">JavaMusicPlayer</a>
+- <a href="https://github.com/AlmondFlame1287/SwingAudioPlayer">SwingAudioPlayer</a>
 - Other secret stuff..
 
 ### GitHub Analytics
