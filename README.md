@@ -4,7 +4,7 @@
 <p style="border-radius:5px; padding: 10px; color:white; font-weight: bold; font-family: monospace">
   I started getting into programming when I was 10 years old, writing little batch programs like the famous
   Matrix computer screen. When I got to High-School, I then started becoming way more passionate about it, and
-  I found myself being quite interested and invested in Operating Systems. I'm now working as an iOS developer.
+  I found myself being quite interested and invested in Operating Systems. I'm now working as an iOS app developer.
 </p>
 
 ### Currently working on:
